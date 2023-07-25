@@ -57,4 +57,3 @@ strictEquals.addEventListener("click", () => {
   //сюди код для === логіки
   result.value = Number(value1.value) === Number(value2.value)
 });
-
